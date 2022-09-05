@@ -29,8 +29,3 @@ if( things == thing ){
     console.log('i have dell precision m6600');
 
 }
-
-    else( ){
-    console.log('i do not have it ');
-    }
-    return

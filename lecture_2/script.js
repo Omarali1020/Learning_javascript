@@ -1,3 +1,20 @@
+name_of_talbe = prompt('What table do you want')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     console.log('This is the table of 2');
     

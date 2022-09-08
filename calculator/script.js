@@ -11,11 +11,12 @@ var m = t*10  ;
 do{
   console.log(t)
   t++
+  
 }
 while(t <= m);
 
 var book = document.querySelector
 
 
-const element = document.getElementById("id01");
-element.innerHTML = "New Heading";
+// const element = document.getElementById("523");
+// element.innerHTML = "New Heading";
